@@ -8856,6 +8856,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T160159Z" creationid="concurrent" creationdate="20190514T160159Z">
+        <seg>XXXLaunch the installation program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130421T133732Z">

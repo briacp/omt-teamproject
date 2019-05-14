@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_dev" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_dev" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8256,6 +8256,16 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T194035Z" creationid="concurrent" creationdate="20190514T194035Z">
+        <seg>XXXInstalling OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
@@ -11158,6 +11168,14 @@ installé sur votre système.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130411T080616Z">
         <seg>Pg préc :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T194038Z" creationid="concurrent" creationdate="20190514T194038Z">
+        <seg>XXXXPlace the archive in any suitable folder and unpack it.</seg>
       </tuv>
     </tu>
     <tu>

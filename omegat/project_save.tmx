@@ -10426,6 +10426,16 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160858Z" creationid="briac" creationdate="20190514T160858Z">
+        <seg>OmegaT nécessite la version 1.8 ou supérieure du Java Runtime Environment (JRE) pour être compatible avec les environnements Java
+installé sur votre système.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130502T083440Z">
@@ -10446,6 +10456,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130424T093217Z">
         <seg>OmegaT prend ainsi les variantes d'unité de traduction correspondants au code de la langue source et de la langue cible du projet et les utilise respectivement en tant que segments sources et segments cibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160849Z" creationid="briac" creationdate="20190514T160849Z">
+        <seg>OmegaT utilise un certain nombre de bibliothèques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11174,6 +11192,16 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="FR-FR" changeid="pingouin" changedate="20130418T145819Z">
         <seg>Prérequis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160855Z" creationid="briac" creationdate="20190514T160855Z">
+        <seg>Conditions préalables à l'installation d'OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -14381,6 +14409,16 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160851Z" creationid="briac" creationdate="20190514T160851Z">
+        <seg>La licence de chaque bibliothèque est mentionnée
+dans /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="pingouin" changedate="20130426T133132Z">
@@ -17346,6 +17384,16 @@ modification follow.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="laurieetclémentine" changedate="20130411T111136Z">
         <seg>Garantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160901Z" creationid="briac" creationdate="20190514T160901Z">
+        <seg>Nous vous recommandons d'utiliser les paquets OmegaT qui incluent le JRE, pour vous éviter de devoir utiliser le JRE
+la difficulté de sélection, d'obtention et d'installation.</seg>
       </tuv>
     </tu>
     <tu>

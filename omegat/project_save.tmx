@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091741Z" creationid="briac" creationdate="20190514T091741Z">
+        <seg>Exécution du script {0} (événement {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="briac" changedate="20190514T091115Z" creationid="briac" creationdate="20190514T091115Z">

@@ -18031,6 +18031,16 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T160122Z" creationid="concurrent" creationdate="20190514T160122Z">
+        <seg>xxxYou can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130430T091248Z">

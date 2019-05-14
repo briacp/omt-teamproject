@@ -10402,6 +10402,16 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210515Z" creationid="concurrent" creationdate="20190514T210515Z">
+        <seg>xxxOmegaT is then ready
+to be launched.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130415T090930Z">
@@ -16676,6 +16686,20 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210630Z" creationid="concurrent" creationdate="20190514T210630Z">
+        <seg>xxxTo use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130429T070501Z">
@@ -18175,6 +18199,16 @@ price.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130415T090609Z">
         <seg>Le texte source sera automatiquement inséré dans la ligne d'édition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210517Z" creationid="concurrent" creationdate="20190514T210517Z">
+        <seg>xxxYou can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>

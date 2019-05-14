@@ -8256,6 +8256,26 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161020Z" creationid="briac" creationdate="20190514T161020Z">
+        <seg>Installation d'OmegaT (Mac)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161010Z" creationid="briac" creationdate="20190514T161010Z">
+        <seg>Installation d'OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130502T090356Z">
@@ -8858,8 +8878,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN-US">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T160159Z" creationid="concurrent" creationdate="20190514T160159Z">
-        <seg>XXXLaunch the installation program.</seg>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161007Z" creationid="briac" creationdate="20190514T161007Z">
+        <seg>Lancez le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19237,6 +19257,14 @@ price.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130430T074927Z">
         <seg>Traduisez le dans un fichier ODT cible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>translated segments.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T160942Z" creationid="briac" creationdate="20190514T160942Z">
+        <seg>translated segments.</seg>
       </tuv>
     </tu>
     <tu>

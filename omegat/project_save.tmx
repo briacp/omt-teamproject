@@ -4,6 +4,38 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10704M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091131Z" creationid="briac" creationdate="20190514T091131Z">
+        <seg>Une erreur s'est produite lors de l'exécution du processus console : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091115Z" creationid="briac" creationdate="20190514T091115Z">
+        <seg>Chargement du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091036Z" creationid="briac" creationdate="20190514T091036Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091119Z" creationid="briac" creationdate="20190514T091119Z">
+        <seg>Le projet ne peut être vérifié</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

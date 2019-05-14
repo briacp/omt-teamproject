@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10704M" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_dev" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T155309Z" creationid="briac" creationdate="20190514T155309Z">
+        <seg>fr===============</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>An error occurred while trying to run console process: {0}</seg>
@@ -30,6 +38,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T155307Z" creationid="briac" creationdate="20190514T155307Z">
+        <seg>frLicensing information
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="briac" changedate="20190514T091115Z" creationid="briac" creationdate="20190514T091115Z">
@@ -42,6 +60,18 @@
       </tuv>
       <tuv lang="FR-FR" changeid="briac" changedate="20190514T091036Z" creationid="briac" creationdate="20190514T091036Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T155304Z" creationid="briac" creationdate="20190514T155304Z">
+        <seg>frOmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +120,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="briac" changedate="20190514T091913Z" creationid="briac" creationdate="20190514T091913Z">
         <seg>Le dossier de mémoire de traduction {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T155259Z" creationid="briac" creationdate="20190514T155259Z">
+        <seg>frWhat is OmegaT?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

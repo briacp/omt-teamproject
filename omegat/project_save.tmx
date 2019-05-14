@@ -4,6 +4,94 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_10704M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091131Z" creationid="briac" creationdate="20190514T091131Z">
+        <seg>Une erreur s'est produite lors de l'exécution du processus console : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091741Z" creationid="briac" creationdate="20190514T091741Z">
+        <seg>Exécution du script {0} (événement {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091821Z" creationid="briac" creationdate="20190514T091821Z">
+        <seg>Le dossier de glossaire {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091115Z" creationid="briac" creationdate="20190514T091115Z">
+        <seg>Chargement du projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091036Z" creationid="briac" creationdate="20190514T091036Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091918Z" creationid="briac" creationdate="20190514T091918Z">
+        <seg>Projet verrouillé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091816Z" creationid="briac" creationdate="20190514T091816Z">
+        <seg>Le dossier source {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091818Z" creationid="briac" creationdate="20190514T091818Z">
+        <seg>Le dossier cible {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091119Z" creationid="briac" creationdate="20190514T091119Z">
+        <seg>Le projet ne peut être vérifié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091915Z" creationid="briac" creationdate="20190514T091915Z">
+        <seg>Le fichier de glossaire inscriptible ne se trouve pas dans le dossier glossaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T091913Z" creationid="briac" creationdate="20190514T091913Z">
+        <seg>Le dossier de mémoire de traduction {0} n'existe pas.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

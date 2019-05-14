@@ -8259,9 +8259,9 @@ free software which everyone can redistribute and change under these terms.</seg
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161020Z" creationid="briac" creationdate="20190514T161020Z">
-        <seg>Installation d'OmegaT (Mac)
-===========================</seg>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T161112Z" creationid="concurrent" creationdate="20190514T161112Z">
+        <seg>XXXInstalling OmegaT (Mac)
+=======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8269,8 +8269,8 @@ free software which everyone can redistribute and change under these terms.</seg
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161010Z" creationid="briac" creationdate="20190514T161010Z">
-        <seg>Installation d'OmegaT (Windows)
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T161110Z" creationid="concurrent" creationdate="20190514T161110Z">
+        <seg>XXXInstalling OmegaT (Windows)
 ===========================</seg>
       </tuv>
     </tu>

@@ -16904,6 +16904,16 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T163059Z" creationid="concurrent" creationdate="20190514T163059Z">
+        <seg>XXXUnpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130417T100405Z">

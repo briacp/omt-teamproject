@@ -9550,6 +9550,16 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T163124Z" creationid="concurrent" creationdate="20190514T163124Z">
+        <seg>XXXMove the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130503T114654Z">

@@ -8276,6 +8276,16 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211712Z" creationid="concurrent" creationdate="20190514T210653Z">
+        <seg>xxxxInstalling OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -10405,8 +10415,8 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is then ready
 to be launched.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210515Z" creationid="concurrent" creationdate="20190514T210515Z">
-        <seg>xxxOmegaT is then ready
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211656Z" creationid="concurrent" creationdate="20190514T210515Z">
+        <seg>xxxxOmegaT is then ready
 to be launched.</seg>
       </tuv>
     </tu>
@@ -11184,8 +11194,8 @@ installé sur votre système.</seg>
       <tuv lang="EN-US">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T194038Z" creationid="concurrent" creationdate="20190514T194038Z">
-        <seg>XXXXPlace the archive in any suitable folder and unpack it.</seg>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211657Z" creationid="concurrent" creationdate="20190514T194038Z">
+        <seg>xXXXXPlace the archive in any suitable folder and unpack it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17274,6 +17284,16 @@ documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130417T141407Z">
         <seg>Utilisation de Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211653Z" creationid="concurrent" creationdate="20190514T211653Z">
+        <seg>xxxxUsing Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>

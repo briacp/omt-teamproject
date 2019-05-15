@@ -24,7 +24,7 @@
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="svn" url="https://github.com/briacp/omt-teamproject.git/trunk/doc_src">
+            <repository type="svn" url="https://github.com/briacp/omt-teamproject.git/trunk/source/doc_src">
                 <mapping local="source/doc_src" repository=""/>
             </repository>
             <repository type="git" url="https://github.com/briacp/omt-teamproject.git">

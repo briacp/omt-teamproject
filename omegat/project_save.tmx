@@ -9230,6 +9230,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marc Prior: correcting my first draft was an act of love for</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T171028Z" creationid="briac" creationdate="20190515T171028Z">
+        <seg>Marc Prior : corriger ma première ébauche était un acte d'amour pour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="laurieetclémentine" changedate="20130411T135429Z">

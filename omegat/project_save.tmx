@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_dev" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_dev" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8256,32 +8256,12 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Installing OmegaT (Linux)
-=========================</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T194035Z" creationid="concurrent" creationdate="20190514T194035Z">
-        <seg>XXXInstalling OmegaT (Linux)
-=========================</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T161112Z" creationid="concurrent" creationdate="20190514T161112Z">
         <seg>XXXInstalling OmegaT (Mac)
 =======================</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
-=========================================</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211712Z" creationid="concurrent" creationdate="20190514T210653Z">
-        <seg>xxxxInstalling OmegaT (Solaris, FreeBSD, ...)
-=========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,8 +8878,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN-US">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T161720Z" creationid="briac" creationdate="20190514T161007Z">
-        <seg>XXXLaunch the installation program.</seg>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190514T161007Z" creationid="briac" creationdate="20190514T161007Z">
+        <seg>Lancez le programme d'installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9566,16 +9546,6 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130429T075146Z">
         <seg>La plupart des utilisateurs trouveront les options de filtrage de fichiers par défaut suffisantes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Move the folder to an
-appropriate location such as the Applications folder.</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T163124Z" creationid="concurrent" creationdate="20190514T163124Z">
-        <seg>XXXMove the folder to an
-appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10412,16 +10382,6 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OmegaT is then ready
-to be launched.</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211656Z" creationid="concurrent" creationdate="20190514T210515Z">
-        <seg>xxxxOmegaT is then ready
-to be launched.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130415T090930Z">
@@ -11188,14 +11148,6 @@ installé sur votre système.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130411T080616Z">
         <seg>Pg préc :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Place the archive in any suitable folder and unpack it.</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211657Z" creationid="concurrent" creationdate="20190514T194038Z">
-        <seg>xXXXXPlace the archive in any suitable folder and unpack it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,20 +16648,6 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>To use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
-install.sh.</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210630Z" creationid="concurrent" creationdate="20190514T210630Z">
-        <seg>xxxTo use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
-install.sh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130429T070501Z">
@@ -16962,16 +16900,6 @@ install.sh.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130430T133458Z">
         <seg>La numérotation unique permet de regrouper ensemble les balises qui sont correspondantes et de différencier les balises qui ont le même raccourci mais sont en fait différentes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
-documentation file and the OmegaT application.</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T163059Z" creationid="concurrent" creationdate="20190514T163059Z">
-        <seg>XXXUnpack the OmegaT .zip archive to obtain a folder that contains a
-documentation file and the OmegaT application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17284,16 +17212,6 @@ documentation file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130417T141407Z">
         <seg>Utilisation de Java Web Start</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Using Java Web Start for installing OmegaT (all platforms)
-===========================================================</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T211653Z" creationid="concurrent" creationdate="20190514T211653Z">
-        <seg>xxxxUsing Java Web Start for installing OmegaT (all platforms)
-===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18219,16 +18137,6 @@ price.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130415T090609Z">
         <seg>Le texte source sera automatiquement inséré dans la ligne d'édition.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>You can however obtain a neater and more user-friendly installation by using
-the installation script (linux-install.sh).</seg>
-      </tuv>
-      <tuv lang="FR-FR" changeid="concurrent" changedate="20190514T210517Z" creationid="concurrent" creationdate="20190514T210517Z">
-        <seg>xxxYou can however obtain a neater and more user-friendly installation by using
-the installation script (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>

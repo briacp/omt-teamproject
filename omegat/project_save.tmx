@@ -10230,6 +10230,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T174720Z" creationid="briac" creationdate="20190515T174720Z">
+        <seg>OmegaT and the English language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130503T085811Z">

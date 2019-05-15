@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.1_0_dev" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10713M" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15720,6 +15720,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170716Z" creationid="briac" creationdate="20190515T170716Z">
+        <seg>Ce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130502T090945Z">
@@ -16904,6 +16912,16 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170551Z" creationid="briac" creationdate="20190515T170551Z">
+        <seg>xxxUnpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130417T100405Z">
@@ -17462,6 +17480,14 @@ la difficulté de sélection, d'obtention et d'installation.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="laurieetclémentine" changedate="20130412T130816Z">
         <seg>Ce qui est arrivé à la place</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170709Z" creationid="briac" creationdate="20190515T170709Z">
+        <seg>Quelles que soient les incohérences, les omissions et les erreurs simples</seg>
       </tuv>
     </tu>
     <tu>
@@ -18773,6 +18799,14 @@ price.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>manual, however, would not be possible without the help and support from a</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170719Z" creationid="briac" creationdate="20190515T170719Z">
+        <seg>ne serait toutefois pas possible sans l'aide et le soutien d'un manuel de l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>maximizes the pane</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="pingouin" changedate="20130426T124010Z">
@@ -18865,6 +18899,14 @@ price.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130428T162323Z">
         <seg>contient les notes concernant le segment en cours, par exemple des traductions alternatives ou la clé en cours dans le cas des fichiers de format clé= valeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>number of people.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170722Z" creationid="briac" creationdate="20190515T170722Z">
+        <seg>nombre de personnes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19329,6 +19371,14 @@ price.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="Clementine" changedate="20130412T124415Z">
         <seg>semblable à celle ci-dessous va apparaître :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>you may find in the present version, I declare them all my own.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="briac" changedate="20190515T170713Z" creationid="briac" creationdate="20190515T170713Z">
+        <seg>que vous pouvez trouver dans la présente version, je les déclare tous miens.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
